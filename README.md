@@ -1,1 +1,3 @@
 # Leetcode
+
+<img alt="LeetCode Logo | Eda AYDIN Profile" src="https://camo.githubusercontent.com/3b96a90f6d2de98fae0b33562086ee22e63337b7be297e6bb88fcf404d5deec4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30612f4c656574436f64655f4c6f676f5f626c61636b5f776974685f746578742e7376672f3132383070782d4c656574436f64655f4c6f676f5f626c61636b5f776974685f746578742e7376672e706e67" width="450" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" style="max-width: 100%;">
