@@ -14,9 +14,9 @@ This repository consists of solutions to LeetCode practice, tutorials, and inter
 <table>
   <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
   <tr><th colspan="2"><h3>🗳️ Leetcode</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays statistics from a <a href="https://leetcode.com">LeetCode</a> account.</p>
+  <tr><td colspan="2" align="center"><p>This plugin displays statistics from a <a href="https://leetcode.com/safwannasir49">LeetCode</a> account.</p>
 </td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://leetcode.com">LeetCode</a>.
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://leetcode.com/safwannasir49">LeetCode</a>.
 All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
 </td></tr>
   <tr>
