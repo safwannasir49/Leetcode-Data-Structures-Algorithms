@@ -4,7 +4,7 @@
 LeetCode | Practice, Tutorials & Interview Preparation Solutions
 This repository consists of solutions to LeetCode practice, tutorials, and interview preparation problems with Python, SQL, C++, and Java.
 <div align="center">
-<h1>My Leetcode Profile</h1>
+<h1>My LeetCode Profile</h1>
 <a href="https://leetcode.com/u/safwannasir49">
   <img src="https://github.com/safwannasir49/Hackerrank/assets/127377148/eb1d3279-c4ff-4e49-80c8-fa251e75433b" alt="Profile Icon" style="width: 50px; height: 50px;">
 </a> 
